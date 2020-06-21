@@ -1,0 +1,13 @@
+C:\Projetos\GuessTheNnumber\GuessTheNnumber\bin\Debug\netcoreapp3.1\GuessTheNumber.exe
+C:\Projetos\GuessTheNnumber\GuessTheNnumber\bin\Debug\netcoreapp3.1\GuessTheNumber.deps.json
+C:\Projetos\GuessTheNnumber\GuessTheNnumber\bin\Debug\netcoreapp3.1\GuessTheNumber.runtimeconfig.json
+C:\Projetos\GuessTheNnumber\GuessTheNnumber\bin\Debug\netcoreapp3.1\GuessTheNumber.runtimeconfig.dev.json
+C:\Projetos\GuessTheNnumber\GuessTheNnumber\bin\Debug\netcoreapp3.1\GuessTheNumber.dll
+C:\Projetos\GuessTheNnumber\GuessTheNnumber\bin\Debug\netcoreapp3.1\GuessTheNumber.pdb
+C:\Projetos\GuessTheNnumber\GuessTheNnumber\obj\Debug\netcoreapp3.1\GuessTheNumber.csprojAssemblyReference.cache
+C:\Projetos\GuessTheNnumber\GuessTheNnumber\obj\Debug\netcoreapp3.1\GuessTheNumber.AssemblyInfoInputs.cache
+C:\Projetos\GuessTheNnumber\GuessTheNnumber\obj\Debug\netcoreapp3.1\GuessTheNumber.AssemblyInfo.cs
+C:\Projetos\GuessTheNnumber\GuessTheNnumber\obj\Debug\netcoreapp3.1\GuessTheNumber.csproj.CoreCompileInputs.cache
+C:\Projetos\GuessTheNnumber\GuessTheNnumber\obj\Debug\netcoreapp3.1\GuessTheNumber.dll
+C:\Projetos\GuessTheNnumber\GuessTheNnumber\obj\Debug\netcoreapp3.1\GuessTheNumber.pdb
+C:\Projetos\GuessTheNnumber\GuessTheNnumber\obj\Debug\netcoreapp3.1\GuessTheNumber.genruntimeconfig.cache
